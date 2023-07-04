@@ -2,7 +2,6 @@
 
 ### O Git é um sistema de controle de versão distribuído amplamente utilizado para o rastreamento de alterações em arquivos e projetos de software. Ele permite que múltiplos colaboradores trabalhem em um mesmo projeto, gerenciando as alterações de forma eficiente e organizada. Aqui estão algumas das principais dicas de comandos do Git:
 
-###
 
 
 1- git init: Inicializa um novo repositório Git em um diretório local.
