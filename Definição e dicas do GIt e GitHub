@@ -1,0 +1,59 @@
+# GIT
+
+### O Git é um sistema de controle de versão distribuído amplamente utilizado para o rastreamento de alterações em arquivos e projetos de software. Ele permite que múltiplos colaboradores trabalhem em um mesmo projeto, gerenciando as alterações de forma eficiente e organizada. Aqui estão algumas das principais dicas de comandos do Git:
+
+###
+
+
+1- git init: Inicializa um novo repositório Git em um diretório local.
+
+2- git clone [url]: Clona um repositório Git existente para o seu diretório local.
+
+3- git add [arquivo]: Adiciona um arquivo ao próximo commit.
+
+4- git commit -m "mensagem": Cria um novo commit com as alterações adicionadas e uma mensagem descritiva.
+
+5-git status: Exibe o status atual do seu repositório Git, mostrando arquivos modificados, adicionados ou removidos.
+
+6- git push: Envia os commits locais para um repositório remoto.
+
+7- git pull: Atualiza seu repositório local com as últimas alterações do repositório remoto.
+
+8- git branch: Lista todas as branches (ramificações) existentes no repositório.
+
+9- git checkout [branch]: Altera para a branch especificada.
+
+10- git merge [branch]: Combina as alterações de uma branch com a branch atual.
+
+11- git log: Mostra o histórico de commits.
+
+12- git diff: Mostra as diferenças entre o último commit e o estado atual dos arquivos.
+
+13- git stash: Salva as alterações locais em um espaço temporário, permitindo alternar para outra branch sem perder o trabalho em progresso.
+
+14- git remote add [nome] [url]: Adiciona um repositório remoto com um nome específico.
+
+15- git remote -v: Exibe os repositórios remotos configurados.
+
+### Essas são apenas algumas das dicas de comandos mais utilizados no Git. Existem muitos outros comandos e opções disponíveis, mas esses podem ajudar a começar a trabalhar com o Git de forma eficiente. É recomendado aprender mais sobre o Git e suas funcionalidades para aproveitar ao máximo essa poderosa ferramenta de controle de versão.
+
+# 
+# GitHub
+
+### GitHub é uma plataforma de hospedagem de código fonte baseada em Git que oferece uma série de recursos para facilitar o desenvolvimento colaborativo de projetos. Aqui estão algumas das principais características do GitHub:
+
+1- Controle de versão: O GitHub utiliza o Git como sistema de controle de versão, permitindo rastrear e gerenciar as alterações em arquivos e projetos ao longo do tempo. Isso facilita a colaboração entre desenvolvedores e oferece um histórico detalhado de todas as modificações.
+
+2- Repositórios: No GitHub, os projetos são organizados em repositórios, que contêm todos os arquivos, pastas e histórico de alterações relacionados a um projeto específico. Os repositórios são usados para armazenar e compartilhar o código fonte.
+
+3- Colaboração: O GitHub incentiva a colaboração em projetos, permitindo que múltiplos desenvolvedores trabalhem juntos. Ele oferece recursos como pull requests, que permitem revisar, discutir e mesclar as alterações de outros desenvolvedores em um projeto.
+
+4- Issues e Bug tracking: O GitHub possui um sistema de issues que permite que os usuários relatem problemas, solicitem recursos e discutam ideias relacionadas a um projeto. Também é possível usar etiquetas, milestones e atribuições para acompanhar e organizar o trabalho em andamento.
+
+5- Integração com ferramentas de desenvolvimento: O GitHub integra-se a uma ampla variedade de ferramentas e serviços de desenvolvimento, como IDEs, sistemas de integração contínua (CI) e ferramentas de automação de fluxo de trabalho. Isso facilita a integração de fluxos de trabalho existentes e a automação de tarefas repetitivas.
+
+6- Controle de acesso e permissões: O GitHub permite definir diferentes níveis de acesso e permissões para colaboradores em um projeto. Isso permite que os proprietários de repositórios controlem quem pode visualizar, modificar e mesclar as alterações em um projeto.
+
+7- Integração com serviços de hospedagem: Além de hospedar repositórios Git, o GitHub oferece recursos para hospedar sites estáticos, documentação e wikis diretamente em seus repositórios, facilitando a criação e compartilhamento de conteúdo relacionado a um projeto.
+
+#### Essas são apenas algumas das principais características do GitHub. A plataforma é amplamente utilizada pela comunidade de desenvolvimento de software devido à sua facilidade de uso, recursos poderosos e suporte à colaboração em projetos de código aberto e privados.
